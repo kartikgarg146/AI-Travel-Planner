@@ -24,7 +24,7 @@
 
 ```
 You:     "Plan a 7-day budget trip to Japan for 2 people"
-AI:      "Great choice! 🇯🇵 Here's a day-by-day itinerary for Tokyo, Kyoto & Osaka,
+AI:      "Great choice! Here's a day-by-day itinerary for Tokyo, Kyoto & Osaka,
           keeping your budget under ₹1.2L. Want me to add hotel options too?"
 ```
 
